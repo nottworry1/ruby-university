@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 $options = ["Rock", "Paper", "Scissors"]
+
 $win = {"Rock": "Scissors",
         "Paper": "Rock",
         "Scissors": "Paper"}
